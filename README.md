@@ -1,4 +1,5 @@
 ### 김영민 👋
+https://flicker-vase-3ea.notion.site/AcornAcademy-29f279d5c36f4f92b35e71da9d2da911
 <hr/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
 <!--
