@@ -1,5 +1,6 @@
 ### 김영민 👋
 <hr/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
 <!--
 **zrminkim/zrminkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
