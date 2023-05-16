@@ -3,7 +3,7 @@ https://flicker-vase-3ea.notion.site/AcornAcademy-29f279d5c36f4f92b35e71da9d2da9
 <hr/>
 BigData BackEnd Develper 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Java-5294E2?style=flat&logo=Java&logoColor=white"/>
 <!--
 **zrminkim/zrminkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
