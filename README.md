@@ -1,7 +1,10 @@
 ### 김영민 👋
 https://flicker-vase-3ea.notion.site/AcornAcademy-29f279d5c36f4f92b35e71da9d2da911
 <hr/>
+BigData BackEnd Develper 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=React&logoColor=white"/>
 <!--
 **zrminkim/zrminkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
