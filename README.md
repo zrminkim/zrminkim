@@ -1,9 +1,8 @@
 ### 김영민 👋
 BigData BackEnd Developer <br/>
 <hr/>
-
-Python, Django, Linux, Java, Spring Boot <br/>
 1996.10.01 <br/>
+Python, Django, Linux, Java, Spring Boot <br/>
 
 ⚡ Study Dictionary : 
 https://flicker-vase-3ea.notion.site/AcornAcademy-29f279d5c36f4f92b35e71da9d2da911 
