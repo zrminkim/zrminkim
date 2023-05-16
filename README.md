@@ -1,5 +1,5 @@
 ### 김영민 👋
-BigData BackEnd Developer <br/>
+BigData BackEnd Developer를 위해 달려나가는 주니어 개발자 <br/>
 <hr/>
 1996.10.01 <br/>
 Python, Django, Linux, Java, Spring Boot <br/>
