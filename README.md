@@ -6,7 +6,7 @@ Python, Django, Linux, Java, Spring Boot <br/>
 
 🌱 portfolio :
 https://flicker-vase-3ea.notion.site/1eb2b481971f490a8b08c338629fd67d 
-<br/><br/>
+<br/>
 
 ⚡ Study Dictionary : 
 https://flicker-vase-3ea.notion.site/AcornAcademy-29f279d5c36f4f92b35e71da9d2da911 
