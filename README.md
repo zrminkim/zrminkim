@@ -11,8 +11,9 @@ https://flicker-vase-3ea.notion.site/1eb2b481971f490a8b08c338629fd67d
 ⚡ Study Dictionary : 
 https://flicker-vase-3ea.notion.site/AcornAcademy-29f279d5c36f4f92b35e71da9d2da911 
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-5294E2?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003545?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> 
+
 
 <!--
 **zrminkim/zrminkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
