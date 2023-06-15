@@ -2,7 +2,7 @@
 BigData BackEnd Engineer를 위해 달려나가는 주니어 개발자 <br/>
 <hr/>
 1996.10.01 <br/>
-Python, Django, Linux, Java, Spring Boot <br/>
+Java, Spring Boot, Python, Django, Linux <br/>
 
 🌱 portfolio :
 https://flicker-vase-3ea.notion.site/1eb2b481971f490a8b08c338629fd67d 
